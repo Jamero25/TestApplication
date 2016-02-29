@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="title_name">Astrony</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="error_json">Error obteniendo información</string>
+    <string name="details">Ver Detalle</string>
+</resources>
